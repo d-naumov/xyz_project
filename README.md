@@ -1,3 +1,3 @@
 # xyz_project
-Andrei Bakhtinov
-Dimitri Naumov
+- Andrei Bakhtinov
+- Natasha Selyunina
