@@ -4,4 +4,4 @@
 - Gkalina Borisevits
 - Ustinya Petrova
 - Egor Danilov
-
+- Dmitriy Loginov
