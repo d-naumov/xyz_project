@@ -6,4 +6,5 @@
 - Egor Danilov
 - Dmitriy Loginov
 - Viktoriia Shcherbyna
-
+- Gkalina Borisevits
+- Aleksandra Cheidze
