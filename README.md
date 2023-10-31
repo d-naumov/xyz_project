@@ -5,3 +5,5 @@
 - Ustinya Petrova
 - Egor Danilov
 - Dmitriy Loginov
+- Viktoriia Shcherbyna
+
